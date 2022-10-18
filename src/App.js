@@ -1,7 +1,7 @@
 function App() {
   return (
     <div>
-        Hello chaitu deployment in proccess
+        Hello chaitu deployment is success.
     </div>
   );
 }
